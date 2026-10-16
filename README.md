@@ -9,8 +9,10 @@ Este projeto consiste na higienização, tratamento e análise visual de uma bas
 
 1 Qual é o faturamento total por modelo da Porsche?*
    - Identificação dos modelos topo de linha que mais geram receita para a marca.
+     
 2 Qual é a distribuição das vendas por método de pagamento?
    - Análise do comportamento de compra dos clientes (ex.: Transferência Bancária, Cartão de Crédito, Financiamento).
+     
 3 Qual é o volume de faturamento por ano do modelo (2020–2026)?*
    - Avaliação da participação dos veículos mais recentes em comparação com os modelos de anos anteriores.
 
